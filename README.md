@@ -20,7 +20,7 @@ My experience includes **travel technology, flight and booking platforms, and fi
 
 - 💼 **6 years** of hands-on software development experience
 - ✈️ Worked on **flight search, travel agency, and booking management** solutions
-- 🏦 Built a multi-module **Check Paisa fintech platform**, spanning loan origination, CIBIL checks, banking APIs, HRMS, and accounting
+- 🏦 Built a multi-module **fintech platform**, spanning loan origination, CIBIL checks, banking APIs, HRMS, and accounting
 - 🎨 Passionate about **responsive UI, reusable components, and thoughtful UX**
 - 🌱 Interested in **AI integrations, modern backend architecture, and scalable system design**
 - 📍 Based in **India**
