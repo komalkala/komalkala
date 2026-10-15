@@ -22,7 +22,7 @@ My experience includes **travel technology, flight and booking platforms, and fi
 - ✈️ Worked on **flight search, travel agency, and booking management** solutions
 - 🏦 Built an **end-to-end loan management workflow** for **Check Paisa**, covering loan tracking and operational processes
 - 🎨 Passionate about **responsive UI, reusable components, and thoughtful UX**
-- 🌱 Exploring **AI integrations, Python, FastAPI, and scalable system design**
+- 🌱 Interested in **AI integrations, modern backend architecture, and scalable system design**
 - 📍 Based in **India**
 
 ## 🛠️ What I Work With
@@ -31,7 +31,10 @@ My experience includes **travel technology, flight and booking platforms, and fi
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Material UI](https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white)
 
 **Backend & Data**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-555555?style=flat-square) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-555555?style=flat-square)
+
+**Databases**  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=databricks&logoColor=white)
 
 **Tools & Workflow**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -49,12 +52,17 @@ An integrated travel workflow designed for agencies and teams handling flight bo
 - Responsive, role-aware dashboards and reusable UI components
 
 ### 🧳 Travel Booking & Backoffice Software
-Operational software focused on making complex travel-business processes easier to manage.
+Built and enhanced a **travel agency backoffice platform** to bring flight booking operations, supplier coordination, customer communication, and post-booking workflows into one interface.
 
-- Booking status and operational tracking
-- Admin/backoffice screens and reusable management components
-- Workflow improvements for day-to-day agency operations
-- Responsive interfaces for desktop, tablet, and mobile
+- **Booking operations:** Booking details, status management, booking views, and operational tracking for agency teams
+- **Flight & PNR workflows:** Flight itinerary and PNR-related screens, fare/pricing display and management interfaces
+- **Supplier management:** Supplier selection, supplier charges, pricing-related fields, and operational forms
+- **Cancellation & settlements:** Cancellation requests, status updates, refund/credit workflows, and settlement interfaces
+- **WhatsApp operations:** Conversation dashboards, unread-message indicators, "Needs Reply" and "Waiting on Customer" queues, and customer follow-ups
+- **Access & UI architecture:** Permission-aware components, feature toggles, reusable UI elements, and consistent navigation
+- **Responsive experience:** Improved desktop, tablet, and mobile layouts for day-to-day agency work
+
+*Focus: making complex booking and post-booking tasks easier for operations teams to track and complete.*
 
 ### 🏦 Check Paisa — Loan Management Software
 Built a complete, end-to-end software workflow for a loan-focused business, bringing core processes together in one place.
@@ -70,7 +78,7 @@ Built a complete, end-to-end software workflow for a loan-focused business, brin
 
 ## 🧠 Currently Interested In
 
-**AI-powered products • Python & FastAPI • System design • Better developer experiences • Scalable web applications**
+**AI-powered products • Node.js & NestJS architecture • System design • Better developer experiences • Scalable web applications**
 
 I enjoy working close to both the **product** and the **code**—understanding business needs, designing clean user experiences, and delivering maintainable solutions.
 
