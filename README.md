@@ -64,7 +64,7 @@ Built and enhanced a **travel agency backoffice platform** to bring flight booki
 
 *Focus: making complex booking and post-booking tasks easier for operations teams to track and complete.*
 
-### 🏦 Check Paisa — Fintech, Loan Origination, HRMS & Accounting Platform
+### 🏦 Fintech, Loan Origination, HRMS & Accounting Platform
 
 Built an **end-to-end fintech and enterprise management platform** that connects the loan application lifecycle, third-party banking services, employee operations, and accounting workflows within one system.
 
