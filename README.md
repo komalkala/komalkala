@@ -20,7 +20,7 @@ My experience includes **travel technology, flight and booking platforms, and fi
 
 - 💼 **6 years** of hands-on software development experience
 - ✈️ Worked on **flight search, travel agency, and booking management** solutions
-- 🏦 Built an **end-to-end loan management workflow** for **Check Paisa**, covering loan tracking and operational processes
+- 🏦 Built a multi-module **Check Paisa fintech platform**, spanning loan origination, CIBIL checks, banking APIs, HRMS, and accounting
 - 🎨 Passionate about **responsive UI, reusable components, and thoughtful UX**
 - 🌱 Interested in **AI integrations, modern backend architecture, and scalable system design**
 - 📍 Based in **India**
@@ -64,13 +64,40 @@ Built and enhanced a **travel agency backoffice platform** to bring flight booki
 
 *Focus: making complex booking and post-booking tasks easier for operations teams to track and complete.*
 
-### 🏦 Check Paisa — Loan Management Software
-Built a complete, end-to-end software workflow for a loan-focused business, bringing core processes together in one place.
+### 🏦 Check Paisa — Fintech, Loan Origination, HRMS & Accounting Platform
 
-- Loan application and customer information workflows
-- Centralized loan status and progress tracking
-- Dashboards to manage and follow loan cases
-- Operational workflows designed to make loan management easier for teams
+Built an **end-to-end fintech and enterprise management platform** that connects the loan application lifecycle, third-party banking services, employee operations, and accounting workflows within one system.
+
+#### 💳 Loan Origination & Loan Management
+
+- Built the **complete digital loan application flow**, from customer onboarding and application submission to processing and status tracking
+- Developed structured **borrower and co-borrower** information and application journeys
+- Integrated **CIBIL / credit bureau checks** within the lending workflow
+- Connected **third-party banking and financial APIs** for relevant verification and loan application processes
+- Implemented centralized loan case dashboards, application progress tracking, and operational follow-up workflows
+- Designed loan-related forms and interfaces to support complex, multi-step business processes
+
+#### 👥 Human Resource Management System (HRMS)
+
+- Developed **employee onboarding** with employee profiles, employment details, and documentation workflows
+- Built **punch-in / punch-out attendance** features and attendance tracking
+- Implemented **leave applications, approval workflows, and leave history**
+- Created employee management screens and HR dashboards for day-to-day administration
+- Supported the **employee journey from onboarding through ongoing attendance, leave, and HR operations**
+
+#### 💰 Accounting & Financial Operations
+
+- Developed an **accounting module** to organize business financial activities and records
+- Created transaction and financial tracking interfaces with administrative views
+- Integrated accounting-related workflows into the wider enterprise platform
+
+#### 🔗 Integrations & Product Engineering
+
+- Implemented API-driven workflows between internal modules and **external banking/financial service providers**
+- Built reusable UI components, operational dashboards, multi-step forms, and role-aware interfaces
+- Focused on making interconnected lending, employee, and finance workflows easier for teams to manage
+
+**Project highlight:** A unified product covering **loan applications • borrower/co-borrower journeys • CIBIL checks • banking API integrations • HRMS • attendance and leave • accounting**.
 
 > **Note:** These are professional project highlights; source code and client data may be private.
 
